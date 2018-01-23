@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
+//Removes the warning for scanf in Visual Studios, can be removed
 #pragma warning(disable:4996)
 /*
 Peg Jump Game
